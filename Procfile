@@ -1,1 +1,1 @@
-web: gunicorn LangLenguaApp.wsgi:application
+web: gunicorn LangLenguaApp.wsgi
