@@ -26,7 +26,7 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 # Must mention ALLOWED_HOSTS in production!
-# ALLOWED_HOSTS = ["LangLenguaApp.com"]
+ALLOWED_HOSTS = ["langlengua.herokuapp.com"]
 
 # Cache the templates in memory for speed-up
 loaders = [
